@@ -13,7 +13,7 @@ const Header = () => {
                   </span>
                   <span>
                     <li>HOW WE WORK</li>
-                    <li>BLOG</li>
+                    <li>VLOG</li>
                     <li>ACOUNT</li>
                     <li className='button'>VIEW PLANS</li>
                   </span>

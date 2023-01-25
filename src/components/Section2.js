@@ -8,7 +8,7 @@ const Section2 = () => {
         <h1>Find out more about how we work</h1>
         </div>
         <div className='right'>
-          <img src={howiMG} className="HowImg"/>
+          <img src={howiMG} alt="" className="HowImg"/>
         <button className='button'>How We Work</button>
         </div>
 

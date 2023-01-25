@@ -15,13 +15,13 @@ const Body = () => {
         <p className='info'>lorem You can help the VideoLAN project giving some of your time to help the community, to design skins, to translate the documentation, to test and to code.
              You can also give funds and material to help us. And of course, you can promote VLC media player.</p>
         <button>VIEW PLANS</button>
-        <img src={LeftImg} className='Leftpatern'/>
+        <img src={LeftImg} alt="" className='Leftpatern'/>
       </div>
 
       <div className='right'>
-        <img src={Image}/>
+        <img src={Image} alt=""/>
       </div>
-        <img src={Img} className='patern'/>
+        <img src={Img} alt="" className='patern'/>
       
     </div>
   );

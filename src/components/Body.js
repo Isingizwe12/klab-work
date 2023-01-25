@@ -14,7 +14,7 @@ const Body = () => {
         <h1>Hummanizing your insurance</h1>
         <p className='info'>lorem You can help the VideoLAN project giving some of your time to help the community, to design skins, to translate the documentation, to test and to code.
              You can also give funds and material to help us. And of course, you can promote VLC media player.</p>
-        <button>VIEW PLAN</button>
+        <button>VIEW PLANS</button>
         <img src={LeftImg} className='Leftpatern'/>
       </div>
 
